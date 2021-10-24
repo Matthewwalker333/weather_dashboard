@@ -2,7 +2,7 @@
 
 ![Screenshot](hw6-screenshot.PNG)
 
-## Weather Dashboard that retrieves data from 3rd party application's APIs.
+## Weather Dashboard that retrieves data from 3rd party application's APIs. API for cities has a database for most cities world-wide! Please feel free to enter cities outside of the U.S. as well!
 
 ### APIs Used:
 - Weather API to get current weather based on city value
