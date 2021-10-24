@@ -10,9 +10,9 @@
 > Forecast API to get a 5-day forecast for the week
 
 ### Application Built With:
--HTML
--CSS styling
--Javascript
--Bootstrap
--jQuery
+- HTML
+- CSS styling
+- Javascript
+- Bootstrap
+- jQuery
 
