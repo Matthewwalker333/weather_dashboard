@@ -15,6 +15,7 @@
 - Javascript
 - Bootstrap
 - jQuery
+- Popper js
 
 ### Link to Application:
 [Weather Dashboard](https://matthewwalker333.github.io/weather_dashboard/)
