@@ -19,3 +19,10 @@
 
 ### Link to Application:
 [Weather Dashboard](https://matthewwalker333.github.io/weather_dashboard/)
+
+### Software Liscense: MIT
+
+## Application Developer
+***Matthew Walker***
+#### Email: Matthewwalkermw64@gmail.com
+#### Phone: (253)202-9604
